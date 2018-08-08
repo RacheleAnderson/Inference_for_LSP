@@ -33,7 +33,7 @@ The code is divided in sections:
 1. Set parameters to simulate the data
 2. Example of realizations from this parametric setting
 3. Inference: For different number of realizations, repeat 100 simulations where the parameters and the covariance matrix are estimated with the proposed method HATS and the traditional Sample Covariance Matrix (SCM)
-4-5-6. Tables and plots for distance from true covariance and parameters estimates
+4. (and 5-6) Tables and figures 
 
 The simulations will take some time. To speed things up while testing one may change lines 22-23 of main_sim_study.m as suggested in the code.
 
