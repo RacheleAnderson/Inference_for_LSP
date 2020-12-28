@@ -24,7 +24,7 @@ Locally Stationary Processes (LSPs) in Silverman’s sense, deﬁned by the modu
 
 How to
 ------
-The code is written in Matlab (R2017b). 
+The code is written in Matlab (R2017b). The Curve Fitting toolbox is required for running the code.
 
 Run main_sim_study.m to reproduce the simulation study presented in the paper.
 
