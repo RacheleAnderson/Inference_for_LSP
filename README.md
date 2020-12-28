@@ -4,7 +4,7 @@ Inference for time-varying signals using locally stationary processes
 
 Code to reproduce the simulations presented in the research paper
 
-> R. Anderson, M. Sandsten, Inference for time-varying signals using locally stationary processes, Journal of Computational and Applied Mathematics (2018)
+> Rachele Anderson, Maria Sandsten, "Inference for time-varying signals using Locally Stationary Processes", Journal of Computational and Applied Mathematics, Volume 347, Pages 24-35, 2019.
 
 available online at: https://doi.org/10.1016/j.cam.2018.07.046
 
