@@ -8,10 +8,6 @@ Code to reproduce the simulations presented in the research paper
 
 available online at: https://doi.org/10.1016/j.cam.2018.07.046
 
-Abstract
---------
-Locally Stationary Processes (LSPs) in Silverman’s sense, deﬁned by the modulation in time of a stationary covariance function, are valuable in stochastic modelling of time-varying signals. However, for practical applications, methods to conduct reliable parameter inference from measured data are required. In this paper, we address the lack of suitable methods for estimating the parameters of the LSP model, by proposing a novel inference method. The proposed method is based on the separation of the two factors defining the LSP covariance function, in order to take advantage of their individual structure and divide the inference problem into two simpler sub-problems. The method’s performance is tested in a simulation study and compared with traditional sample covariance based estimation. An illustrative example of parameter estimation from EEG data, measured during a memory encoding task, is provided.
-
 Keywords
 --------
 Locally Stationary Process, Time-varying signals, Time-series modelling, Statistical inference, Covariance estimation, EEG signals
@@ -20,7 +16,11 @@ Highlights
 ----------
 - A novel inference method for Locally Stationary Processes is proposed.
 - The algorithm divides the inference problem into two simpler sub-problems. 
-- Convergence, accuracy, robustness improve respect to traditional approaches. 
+- Convergence, accuracy, robustness improve respect to traditional approaches.
+
+Abstract of the paper
+----------------------
+Locally Stationary Processes (LSPs) in Silverman’s sense, deﬁned by the modulation in time of a stationary covariance function, are valuable in stochastic modelling of time-varying signals. However, for practical applications, methods to conduct reliable parameter inference from measured data are required. In this paper, we address the lack of suitable methods for estimating the parameters of the LSP model, by proposing a novel inference method. The proposed method is based on the separation of the two factors defining the LSP covariance function, in order to take advantage of their individual structure and divide the inference problem into two simpler sub-problems. The method’s performance is tested in a simulation study and compared with traditional sample covariance based estimation. An illustrative example of parameter estimation from EEG data, measured during a memory encoding task, is provided.
 
 How to
 ------
