@@ -30,10 +30,10 @@ Run main_sim_study.m to reproduce the simulation study presented in the paper.
 
 The code is divided in sections:
 
-1. Set parameters to simulate the data
-2. Example of realizations from this parametric setting
-3. Inference: For different number of realizations, repeat 100 simulations where the parameters and the covariance matrix are estimated with the proposed method HATS and the traditional Sample Covariance Matrix (SCM)
-4. (and 5-6) Tables and figures 
+1. Set parameters to simulate the data, simulation and optimization settings
+2. Plot true covariance, model function and example of realizations from this parametric setting
+3. Inference: For different number of realizations (num_real_vec), repeat num_sim simulations where the parameters and the covariance matrix are estimated with HATS and SCM
+4-5-6. Compute distance from true covariance, confidence intervals for estimates, and plot figures 
 
 
 
