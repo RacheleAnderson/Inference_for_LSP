@@ -26,7 +26,7 @@ How to
 ------
 The code is written in Matlab (R2017b). Optimization Toolbox and Curve Fitting toolbox are required for running the code.
 
-Run main_sim_study.m to reproduce the simulation study presented in the paper.
+Run main.m to reproduce the simulation study presented in the paper.
 
 The code is divided in sections:
 
